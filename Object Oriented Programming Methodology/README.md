@@ -19,3 +19,5 @@ Programs:
   * File(s): Exp09.java, myPackage/myMath.java
 * Applet
   * File(s): Exp10.java
+* Project: Pizza Restaurant Ordering Simulation
+ * File(s): Project/GUI.java, Project/pizza.png
