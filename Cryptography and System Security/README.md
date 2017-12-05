@@ -4,6 +4,6 @@ Programs:
 * Packet Analyzer
 * Hashing (Online Auction using SHA-512)
 * IP Spoofing
-* One Time Password (OTP)
+* OTP (One Time Password) using Challenge-Response
 * Buffer Overflow
 * CAPTCHA
