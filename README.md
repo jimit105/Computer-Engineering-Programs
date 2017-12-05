@@ -7,3 +7,4 @@ Subjects:
 * Object Oriented Programming Methodology
 * Computer Organization and Architecture
 * Analysis of Algorithms
+* Digital Communication Network
