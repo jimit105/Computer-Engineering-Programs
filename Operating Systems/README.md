@@ -27,3 +27,5 @@ Programs:
   * File(s): SRT.C
 * Round Robin
   * File(s): RR.C
+* Producer Consumer Problem using Semaphore
+  * File(s): ProducerConsumerProblem.java
