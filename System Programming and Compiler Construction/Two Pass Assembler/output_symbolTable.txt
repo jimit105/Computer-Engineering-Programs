@@ -1,0 +1,4 @@
+JIMIT	0		1		R
+XYZ	5		4		A
+A	24		4		R
+B	28		4		R

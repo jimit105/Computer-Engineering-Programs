@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int c,a,b=10,1d;
+a=5;
+c=a+b;
+printf("Result is %d",c);
+getch();
+return 0;
+}

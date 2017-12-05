@@ -1,0 +1,10 @@
+PRG	START
+	USING	*,15
+            A                       1,DATA1
+            A                       2,DATA2
+            L                       1,DATA3
+            L                       2,5
+DATA1	DC	F'5'
+DATA2	DC	F'10'
+DATA3	DC	F'15'
+	END

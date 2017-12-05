@@ -1,0 +1,5 @@
+temp1=a-b
+temp2=a-b+c
+temp3=d-e
+temp4=c
+temp5=d-e

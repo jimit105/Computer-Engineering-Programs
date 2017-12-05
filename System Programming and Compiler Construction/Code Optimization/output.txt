@@ -1,0 +1,4 @@
+temp1=a-b
+temp2=temp1+c
+temp3=d-e
+temp4=c

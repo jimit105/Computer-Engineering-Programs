@@ -1,0 +1,8 @@
+INCR1       &ARG1,&ARG2
+A           1,#0
+A           2,#1
+MEND        
+INCR2       &ARG4,&ARG5=5
+L           1,#0
+L           2,#1
+MEND        
