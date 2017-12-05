@@ -1,12 +1,12 @@
 Programs:
-* 
-  * File(s): 
-* 
-  * File(s): 
-* 
-  * File(s): 
-* 
-  * File(s): 
+* Family Tree (Prolog)
+  * File(s): FAMILY.PRO
+* Crime Mystery (Prolog) - The Adventure of the Abbey Grange
+  * File(s): ABBEY.PRO
+* Uninfomed Search Algorithm: 8 Puzzle using Iterative Deepening Search (IDS)
+  * File(s): puzzle.java
+* Informed Search Algorithm: 8 Puzzle
+  * File(s): Puzzle.java
 * 
   * File(s): 
 * 
