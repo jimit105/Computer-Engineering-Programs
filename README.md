@@ -12,6 +12,7 @@ Subjects:
 * Operating Systems
 * Artificial Intelligence
 * Digital Signal and Image Processing
+* System Programming and Compiler Construction
 
 &nbsp;  
 By,  
