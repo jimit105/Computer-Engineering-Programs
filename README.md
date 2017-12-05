@@ -11,3 +11,4 @@ Subjects:
 * Data Networks
 * Operating Systems
 * Artificial Intelligence
+* Digital Signal and Image Processing
