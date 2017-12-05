@@ -6,3 +6,4 @@ Subjects:
 * Data Structures
 * Object Oriented Programming Methodology
 * Computer Organization and Architecture
+* Analysis of Algorithms
