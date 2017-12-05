@@ -4,3 +4,4 @@ Subjects:
 * Data Structures
 * Object Oriented Programming Methodology
 * Computer Organization and Architecture
+* Engineering Graphics
