@@ -1,0 +1,98 @@
+@relation trial_predicted
+
+@attribute buying {vhigh,high,med,low}
+@attribute maintenance {vhigh,high,med,low}
+@attribute doors {2,3,4,5more}
+@attribute persons {2,4,more}
+@attribute lugg_boot {small,med,big}
+@attribute safety {low,med,high}
+@attribute 'prediction margin' numeric
+@attribute 'predicted accept' {unacc,acc}
+@attribute accept {unacc,acc}
+
+@data
+med,vhigh,5more,more,big,low,-0.050859,acc,unacc
+high,high,3,more,med,high,-0.365632,unacc,acc
+vhigh,vhigh,5more,2,small,high,0.109286,unacc,unacc
+vhigh,low,4,2,small,med,0.001612,unacc,unacc
+vhigh,low,4,2,med,low,0.169983,acc,acc
+high,vhigh,2,4,big,high,-0.391944,acc,unacc
+med,low,5more,2,med,low,0.097538,unacc,unacc
+low,low,3,2,med,med,-0.495601,unacc,acc
+vhigh,med,5more,more,small,med,-0.518538,unacc,acc
+high,low,4,2,med,med,-0.144486,unacc,acc
+med,vhigh,3,more,big,high,-0.086416,acc,unacc
+med,high,4,4,med,med,0.010838,unacc,unacc
+med,high,5more,more,small,high,0.17594,unacc,unacc
+med,low,3,2,small,low,-0.353428,acc,unacc
+low,vhigh,4,2,small,med,0.204362,acc,acc
+med,vhigh,4,more,small,med,0.280414,acc,acc
+high,med,4,2,big,high,-0.327127,acc,unacc
+low,vhigh,3,more,med,low,0.080229,unacc,unacc
+low,high,3,2,small,low,0.11064,acc,acc
+med,vhigh,3,4,small,med,-0.12453,acc,unacc
+high,vhigh,4,more,med,med,0.119607,unacc,unacc
+med,low,3,2,big,low,-0.224427,acc,unacc
+vhigh,high,5more,4,med,low,-0.355256,unacc,acc
+vhigh,low,5more,2,small,med,-0.489599,unacc,acc
+vhigh,vhigh,2,4,small,high,-0.409123,acc,unacc
+med,med,5more,2,small,low,-0.252025,acc,unacc
+low,med,2,more,small,high,-0.250559,acc,unacc
+high,vhigh,2,4,big,low,0.523463,acc,acc
+vhigh,med,2,4,med,low,0.266377,acc,acc
+low,low,2,4,med,med,-0.19921,unacc,acc
+vhigh,high,4,more,small,med,0.177135,unacc,unacc
+vhigh,high,5more,more,small,high,0.415476,unacc,unacc
+med,low,4,2,small,med,-0.256922,acc,unacc
+med,high,4,more,med,low,0.253042,acc,acc
+vhigh,high,5more,2,small,med,0.524979,unacc,unacc
+med,med,4,more,med,med,0.040447,unacc,unacc
+med,high,5more,4,small,high,-0.009554,unacc,acc
+high,vhigh,5more,2,big,med,0.380734,unacc,unacc
+vhigh,high,2,2,med,med,-0.329137,unacc,acc
+vhigh,low,2,more,med,med,0.400262,unacc,unacc
+high,vhigh,3,more,big,low,-0.109355,acc,unacc
+vhigh,low,4,more,med,med,-0.376385,unacc,acc
+med,vhigh,3,4,small,high,0.376445,acc,acc
+low,high,4,more,med,med,-0.371085,unacc,acc
+low,med,5more,2,med,low,-0.21414,unacc,acc
+low,vhigh,2,2,big,med,0.038099,acc,acc
+low,low,3,more,med,low,-0.231221,unacc,acc
+low,vhigh,5more,4,small,high,-0.017426,unacc,acc
+med,vhigh,2,more,big,med,0.11841,acc,acc
+low,low,4,2,small,low,-0.454167,acc,unacc
+low,vhigh,5more,more,big,low,-0.15836,unacc,acc
+med,high,5more,2,small,med,0.308391,unacc,unacc
+low,low,5more,4,med,low,-0.263602,unacc,acc
+high,high,4,4,med,low,-0.27573,acc,unacc
+med,low,4,4,med,low,-0.441869,acc,unacc
+med,vhigh,5more,2,big,med,-0.251559,unacc,acc
+high,low,5more,4,med,low,0.200458,unacc,unacc
+vhigh,vhigh,2,4,small,high,0.409123,acc,acc
+vhigh,low,2,2,small,low,0.386775,acc,acc
+vhigh,med,2,4,small,med,0.099369,acc,acc
+med,med,4,2,med,med,-0.08905,acc,unacc
+high,low,2,2,med,high,0.096803,acc,acc
+high,high,5more,more,small,low,-0.153407,unacc,acc
+low,high,5more,2,small,med,0.484901,unacc,unacc
+med,high,2,4,big,low,-0.479401,acc,unacc
+med,low,2,4,small,high,-0.495936,acc,unacc
+vhigh,med,3,4,big,med,0.331411,unacc,unacc
+vhigh,med,2,2,small,high,0.320271,acc,acc
+high,med,2,2,small,med,-0.179822,acc,unacc
+high,high,5more,2,big,low,0.16441,unacc,unacc
+med,vhigh,4,more,med,low,-0.431219,acc,unacc
+vhigh,low,3,more,small,high,0.189506,unacc,unacc
+high,low,5more,2,big,low,0.117712,unacc,unacc
+med,low,3,more,small,high,0.07247,acc,acc
+vhigh,low,5more,more,med,med,0.730483,unacc,unacc
+high,vhigh,5more,4,big,med,0.347359,unacc,unacc
+low,vhigh,3,4,small,med,-0.08522,unacc,acc
+vhigh,vhigh,3,more,med,high,-0.292429,unacc,acc
+med,vhigh,4,more,small,high,0.507133,acc,acc
+vhigh,vhigh,4,4,small,high,0.432263,acc,acc
+vhigh,low,5more,more,small,high,0.375282,unacc,unacc
+high,med,2,2,big,low,-0.445034,acc,unacc
+low,low,5more,more,small,high,-0.328139,unacc,acc
+med,high,2,2,med,low,-0.345475,acc,unacc
+low,high,3,more,small,med,0.427142,unacc,unacc

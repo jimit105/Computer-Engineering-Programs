@@ -1,0 +1,14 @@
+@relation Apriori
+
+@attribute T_id {100,200,300,400}
+@attribute Num1{0,1}
+@attribute Num2{0,1}
+@attribute Num3{0,1}
+@attribute Num4{0,1}
+@attribute Num5{0,1}
+
+@data
+100,1,1,1,0,0
+200,1,1,0,1,1
+300,1,0,1,1,0
+400,1,0,1,0,0

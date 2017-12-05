@@ -1,0 +1,58 @@
+@relation KMeans_Dataset_clustered
+
+@attribute Instance_number numeric
+@attribute 'Point A' numeric
+@attribute 'Point B' numeric
+@attribute Cluster {cluster0,cluster1}
+
+@data
+0,11,17,cluster0
+1,5,18,cluster0
+2,15,11,cluster1
+3,18,4,cluster1
+4,25,23,cluster1
+5,17,10,cluster1
+6,12,1,cluster1
+7,25,11,cluster1
+8,17,8,cluster1
+9,4,3,cluster0
+10,11,10,cluster0
+11,2,16,cluster0
+12,21,8,cluster1
+13,2,19,cluster0
+14,6,12,cluster0
+15,23,10,cluster1
+16,14,20,cluster0
+17,17,19,cluster1
+18,19,7,cluster1
+19,6,18,cluster0
+20,13,15,cluster0
+21,21,1,cluster1
+22,20,15,cluster1
+23,20,21,cluster1
+24,17,17,cluster1
+25,14,14,cluster1
+26,15,25,cluster0
+27,6,10,cluster0
+28,5,12,cluster0
+29,11,10,cluster0
+30,15,19,cluster1
+31,24,24,cluster1
+32,17,18,cluster1
+33,4,14,cluster0
+34,19,5,cluster1
+35,13,4,cluster1
+36,22,5,cluster1
+37,20,7,cluster1
+38,9,14,cluster0
+39,9,7,cluster0
+40,6,5,cluster0
+41,6,25,cluster0
+42,18,4,cluster1
+43,15,15,cluster1
+44,13,6,cluster1
+45,25,19,cluster1
+46,20,17,cluster1
+47,20,11,cluster1
+48,5,12,cluster0
+49,21,8,cluster1
