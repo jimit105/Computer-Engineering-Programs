@@ -7,11 +7,7 @@ Programs:
   * File(s): puzzle.java
 * Informed Search Algorithm: 8 Puzzle
   * File(s): Puzzle.java
-* 
-  * File(s): 
-* 
-  * File(s): 
-* 
-  * File(s): 
-* 
-  * File(s): 
+* MinMax Algorithm
+  * File(s): MinMax.java
+* 0/1 Knapsack using Genetic Algorithm
+  * File(s): Knapsack.java
