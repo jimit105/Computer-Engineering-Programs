@@ -13,6 +13,7 @@ Subjects:
 * Artificial Intelligence
 * Digital Signal and Image Processing
 * System Programming and Compiler Construction
+* Data Warehousing and Mining
 
 &nbsp;  
 By,  
