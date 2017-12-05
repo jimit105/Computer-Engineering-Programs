@@ -12,3 +12,9 @@ Subjects:
 * Operating Systems
 * Artificial Intelligence
 * Digital Signal and Image Processing
+
+&nbsp;  
+By,  
+Jimit Dholakia  
+[LinkedIn](https://in.linkedin.com/in/jimit105 "LinkedIn Profile")  
+[GitHub](https://github.com/jimit105 "GitHub Profile")  
