@@ -10,3 +10,4 @@ Subjects:
 * Digital Communication Network
 * Data Networks
 * Operating Systems
+* Artificial Intelligence
