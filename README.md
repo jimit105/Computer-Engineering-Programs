@@ -8,3 +8,4 @@ Subjects:
 * Computer Organization and Architecture
 * Analysis of Algorithms
 * Digital Communication Network
+* Data Networks
