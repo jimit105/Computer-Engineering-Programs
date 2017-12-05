@@ -9,3 +9,4 @@ Subjects:
 * Analysis of Algorithms
 * Digital Communication Network
 * Data Networks
+* Operating Systems
