@@ -1,6 +1,13 @@
 # Computer-Engineering-Programs
 
-Subjects:
+*Jimit Dholakia*
+
+* LinkedIn: [jimit105](https://in.linkedin.com/in/jimit105 "LinkedIn Profile")
+* GitHub: [jimit105](https://github.com/jimit105 "GitHub Profile")
+
+---
+
+## Subjects:
 * Engineering Graphics
 * Fundamentals of Computer Programming
 * Data Structures
@@ -15,9 +22,3 @@ Subjects:
 * System Programming and Compiler Construction
 * Data Warehousing and Mining
 * Cryptography and System Security
-
-&nbsp;  
-By,  
-Jimit Dholakia  
-[LinkedIn](https://in.linkedin.com/in/jimit105 "LinkedIn Profile")  
-[GitHub](https://github.com/jimit105 "GitHub Profile")  
