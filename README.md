@@ -7,18 +7,18 @@
 
 ---
 
-## Subjects:
-* Engineering Graphics
-* Fundamentals of Computer Programming
-* Data Structures
-* Object Oriented Programming Methodology
-* Computer Organization and Architecture
-* Analysis of Algorithms
-* Digital Communication Network
-* Data Networks
-* Operating Systems
-* Artificial Intelligence
-* Digital Signal and Image Processing
-* System Programming and Compiler Construction
-* Data Warehousing and Mining
-* Cryptography and System Security
+## Subjects
+* [Engineering Graphics](/Engineering%20Graphics)
+* [Fundamentals of Computer Programming](/Fundamentals%20of%20Computer%20Programming)
+* [Data Structures](/Data%20Structures)
+* [Object Oriented Programming Methodology](/Object%20Oriented%20Programming%20Methodology)
+* [Computer Organization and Architecture](/Computer%20Organization%20and%20Architecture)
+* [Analysis of Algorithms](/Analysis%20of%20Algorithms)
+* [Digital Communication Network](/Digital%20Communication%20Network)
+* [Data Networks](/Data%20Networks)
+* [Operating Systems](/Operating%20Systems)
+* [Artificial Intelligence](/Artificial%20Intelligence)
+* [Digital Signal and Image Processing](/Digital%20Signal%20and%20Image%20Processing)
+* [System Programming and Compiler Construction](/System%20Programming%20and%20Compiler%20Construction)
+* [Data Warehousing and Mining](/Data%20Warehousing%20and%20Mining)
+* [Cryptography and System Security](/Cryptography%20and%20System%20Security)
