@@ -3,7 +3,7 @@
 import java.util.*;
 import java.io.*;
 
-class puzzle {
+class puzzle_ids {
     public static int limit = 0;
     
     public static void main(String args[]) {
