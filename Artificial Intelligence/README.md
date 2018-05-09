@@ -4,7 +4,7 @@ Programs:
 * Crime Mystery (Prolog) - The Adventure of the Abbey Grange
   * File(s): ABBEY.PRO
 * Uninfomed Search Algorithm: 8 Puzzle using Iterative Deepening Search (IDS)
-  * File(s): puzzle.java
+  * File(s): puzzle_ids.java
 * Informed Search Algorithm: 8 Puzzle
   * File(s): Puzzle.java
 * MinMax Algorithm
