@@ -22,4 +22,3 @@
 * [System Programming and Compiler Construction](/System%20Programming%20and%20Compiler%20Construction)
 * [Data Warehousing and Mining](/Data%20Warehousing%20and%20Mining)
 * [Cryptography and System Security](/Cryptography%20and%20System%20Security)
-* [Big Data Analytics](/Big%20Data%20Analytics)
